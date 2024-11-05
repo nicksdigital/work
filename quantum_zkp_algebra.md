@@ -42,11 +42,9 @@ In quantum mechanics, superposition refers to a particle’s ability to exist in
 
 We encode the superposition state as a probabilistic distribution:
 
-$
-[
+$[
 \psi = \sum_{i=1}^n \alpha_i \vert s_i \rangle
-]
-$
+]$
 
 where $( \alpha_i \in \mathbb{C} )$ are probability amplitudes, such that $( \sum_{i=1}^n \vert \alpha_i \vert^2 = 1 )$. This distribution of states allows the prover to encode the knowledge in such a way that only probabilistic information is revealed to the verifier, without revealing the actual solution.
 
