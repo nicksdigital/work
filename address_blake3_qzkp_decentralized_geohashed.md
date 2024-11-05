@@ -51,9 +51,9 @@ The `AddressManager` generates addresses by combining IP-derived geolocation dat
 
 Given an IP address, geolocation data is retrieved via the GeoLite2 database, providing latitude, longitude, country, and city. This data is then serialized to JSON format and hashed using `blake3`:
 
-$[
+$$[
 \text{location\_hash} = \text{blake3}(\text{json.dumps(location\_data)})
-]$
+]$$
 
 The location hash provides a unique identifier for each geolocation, ensuring address distinction.
 
