@@ -1,25 +1,18 @@
-
-**Title**: Quantum Zero-Knowledge Proof (Quantum-ZKP) and Its Applications in Secure Distributed Systems  
+# Quantum Zero-Knowledge Proof (Quantum-ZKP) and Its Applications in Secure Distributed Systems
 
 **Authors**:  
 1. **Nicolas Cloutier**  
-   Affiliation: Genovatix  
-   ORCID: 0009-0008-5289-5324  
-   Email: nicolas.cloutier78@gmail.com  
+   - **Affiliation**: Genovatix  
+   - **ORCID**: 0009-0008-5289-5324  
+   - **Email**: nicolas.cloutier78@gmail.com  
 
 **Keywords**: Quantum Zero-Knowledge Proof, Probabilistic Encoding, Logical Entanglement, Distributed Consensus, Privacy-Preserving Computation, Fault Tolerance, Post-Quantum Cryptography  
 
-**DOI**: [To be assigned]  
+**DOI**: _[To be assigned]_  
 
 ---
 
-# Quantum Zero-Knowledge Proof (Quantum-ZKP) and Its Applications in Secure Distributed Systems  
-
-> **Note**: The term "quantum" is used metaphorically to convey quantum-inspired principles applied to classical hardware. Future testing on quantum simulators and hardware is planned to further evaluate the framework.  
-
----
-
-# Abstract  
+## Abstract  
 This paper introduces **Quantum Zero-Knowledge Proof (Quantum-ZKP)**, a quantum-inspired protocol designed to enhance the security and scalability of zero-knowledge proofs in distributed systems. Leveraging probabilistic encoding, logical entanglement, and probabilistic verification, Quantum-ZKP enables secure proof generation and verification suited for decentralized environments. The paper presents the mathematical foundations of Quantum-ZKP, outlines its construction, and explores its applications in secure consensus, privacy-preserving computation, and fault tolerance in distributed systems.
 
 ---
@@ -150,4 +143,3 @@ Quantum-ZKP provides a resilient framework for post-quantum cryptography.
 ## 6. Conclusion  
 
 Quantum-ZKP introduces a novel framework combining quantum-inspired principles with classical cryptography, enabling scalable, secure, and privacy-preserving operations in distributed systems. Future work includes testing on quantum simulators and hardware to expand its applicability in post-quantum cryptographic systems.  
-
